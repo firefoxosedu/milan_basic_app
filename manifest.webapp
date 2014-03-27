@@ -10,5 +10,9 @@
   "icons": {
     "128": "/icons/128.jpg",
     "60": "/icons/60.jpg"
-  }
+  },
+  "permissions": {
+    "systemXHR": {}
+  },
+  "type": "privileged"
 }
