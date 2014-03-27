@@ -1,0 +1,14 @@
+{
+  "name": "FirefoxOSApp",
+  "description": "Basic app",
+  "launch_path": "/index.html",
+  "orientation": "portrait",
+  "developer": {
+    "name": "Your name",
+    "url": "https://yourUrl.it"
+  },
+  "icons": {
+    "128": "/icons/128.jpg",
+    "60": "/icons/60.jpg"
+  }
+}
